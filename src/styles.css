@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+/* de este css derivan el resto de los css*/
+html{
+  position:relative;
+  min-height: 100%;
+}
+
+body{
+margin-bottom: 60px; /* Esto viene del footer, ya que el footer es de 60px, el body tiene un margen inferior de 60px donde está el footer*/
+
+}
+
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
