@@ -12,7 +12,7 @@ import { AuthService } from '../usuarios/auth.service';
 @Component({
   selector: 'app-clientes',
   templateUrl: './clientes.component.html',
-//  styleUrls: ['./clientes.component.css']
+//  styleUrls: ['./clientes.component.css'] 
 })
 export class ClientesComponent {  //clase componente que se comunica con la clase html e importa el service para conexión al backend
   clientes : Cliente[];
