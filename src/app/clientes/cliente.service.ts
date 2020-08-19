@@ -12,7 +12,7 @@ import { formatDate } from '@angular/common';
 
 
 
-@Injectable(
+  @Injectable(
   //{
   //providedIn: 'root'   Evita agregarlo al app.module.
 //}
